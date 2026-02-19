@@ -29,9 +29,15 @@ Workforce split by education level and experience
 Key HR KPIs for quick decision-making
 
 🛠 Skills & Techniques Used
+
 Power BI Desktop
+
 Power Query (Data Cleaning & Transformation)
+
 Data Modeling (Star Schema)
+
 DAX (Measures & Calculated Columns)
+
 KPI Cards, Slicers, Visual Filters
+
 Bar charts, Donut charts, Tree Maps, Matrices, Scatter Plots
